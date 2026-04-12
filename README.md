@@ -55,7 +55,9 @@ A modern, responsive **luxury resort & wellness website** built using **HTML, CS
 
 ## 🌐 Live Demo
 
+<<<<<<< HEAD
 🔗 **Live Site:** [https://roobandev.github.io/club-varaahan/index.html]
+=======
 
 ---
 
